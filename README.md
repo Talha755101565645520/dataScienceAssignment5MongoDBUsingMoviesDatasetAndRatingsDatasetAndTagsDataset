@@ -5,6 +5,6 @@ I created a MongoDB Movie Database for storing records from a variety of movie d
 using Jupyter Notebook from Anaconda. This Movie Database applies an Aggregated Pipeline to make it uncomplicated to group the data, sort the data, do calculations on the data, and examine the data in detail.  
 
 ## Website References for Installing Anaconda and Juptyer Notebook:
-1.) https://www.geeksforgeeks.org/how-to-install-anaconda-on-windows/
-2.) https://www.geeksforgeeks.org/install-jupyter-notebook-in-windows/
+1. https://www.geeksforgeeks.org/how-to-install-anaconda-on-windows/
+2. https://www.geeksforgeeks.org/install-jupyter-notebook-in-windows/
 
